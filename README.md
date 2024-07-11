@@ -16,7 +16,7 @@
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="58%">
+<td align="left" valign="top" width="58%">
 
 <br>
 <br>
