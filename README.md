@@ -17,7 +17,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 
 ---
 
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-<div align="left">
+<div align="center">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dnwnsrb11})](https://solved.ac/{handle})
