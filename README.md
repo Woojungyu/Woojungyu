@@ -3,8 +3,11 @@
 ## Hi there 👋
 ---
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MyMHgwMnhvNnFwZmNqZjRoMjUzYjNnYzB5YjV0c3NoYzlscTJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
-**성장** 하고 **발전** 하는 개발자가 되고 싶은 **우준규** 입니다! 
-항상 최선의 방법을 고심하고 안주하지 않기 위하여 노력하고 있습니다.
+
+<br>
+
+[**성장**]하고 [**발전**]하는 개발자가 되고 싶은 **우준규**입니다.  
+항상 최선의 방법을 고심하고 안주하지 않기 위하여 노력하고 있습니다
 
 <div align="center">
 
