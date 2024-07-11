@@ -30,9 +30,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardroid&layout=compact&theme=radical)](https://github.com/cardroid)
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
-
-[![Solved.ac profile grass](http://mazandi.herokuapp.com/api?handle=carbonsix&theme=dark)](https://solved.ac/carbonsix)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dnwnsrb11})](https://solved.ac/{handle})
 
 </td>
 </tr>
