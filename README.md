@@ -2,10 +2,11 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
 <div align="left">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=495057&lines=Hello~&font=Roboto&size=40)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+
 ---
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=495057&lines=Hello~&font=Roboto&size=40)](https://git.io/typing-svg)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MyMHgwMnhvNnFwZmNqZjRoMjUzYjNnYzB5YjV0c3NoYzlscTJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
 
