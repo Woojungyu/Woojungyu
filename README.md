@@ -18,9 +18,8 @@
 <tr>
 <td align="center" valign="top" width="58%">
 
-[![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardroid&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)
-
-[![Cardroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=96edd70f-15d3-4d1e-acdd-7deed78dbe54&layout=compact&theme=radical)](https://github.com/cardroid)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 </td>
 
