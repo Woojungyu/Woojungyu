@@ -6,13 +6,6 @@
 ---
 <div align="left">
 
-<h3 >📭 Contacts</h3>
-<p> check my github and blog</p>
-<p>
-<a href="https://github.com/Woojungyu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
-
-<a href="https://velog.io/@dnwnsrb11/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
-
 <br>
 <br>
 
@@ -40,6 +33,10 @@
 <tr>
 <td align="left" valign="top" width="58%">
 
+<br>
+<br>
+---
+
 ### 🛠 Tech Stack
 
 <div>
@@ -60,6 +57,11 @@
 
 <br>
 <br>
+
+<h3 >📭 Contacts</h3>
+<p> check my blog</p>
+<p>
+<a href="https://velog.io/@dnwnsrb11/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
 <h3 >🪄 Blog </h3>
  <p>가장 최신 글 보러가기<p>
