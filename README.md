@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#auto&height=400&section=header&text=WOO JUN GYU&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cardroid&fontSize=90)
 
 <!--<table>
 <tr>
