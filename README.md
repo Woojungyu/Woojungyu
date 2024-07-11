@@ -56,8 +56,7 @@
 
 <div align="left">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dnwnsrb11)](https://solved.ac/{handle})
+[![SolvedAC tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=dnwnsrb11)](https://solved.ac/{})
 
 <br>
 <br>
