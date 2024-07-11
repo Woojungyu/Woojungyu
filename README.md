@@ -54,10 +54,9 @@
 <h3 >🪄 Blog </h3>
  <p>가장 최신 글 보러가기<p>
 
-[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnwnsrb11&color=dark)](https://velog.io/@dnwnsrb11)
 
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 
 
 </td>
