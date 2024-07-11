@@ -51,7 +51,8 @@
 [![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=WJUNGyu&color=dark)](https://velog.io/@zaman17)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=WJUNGyu&color=dark)](https://velog.io/@dnwnsrb11)
+
 
 
 </td>
