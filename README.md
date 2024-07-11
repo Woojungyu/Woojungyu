@@ -26,6 +26,7 @@
 ## 📚 Education
 
 - **SSAFY** - 삼성 청년 SW 아카데미 12기 (2024.07. ~ ) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- **🎓** 대구가톨릭대학교 디지털디자인 학사 졸업 (2016.03 ~ 2022.02)
 
 </td>
 </tr>
