@@ -19,7 +19,7 @@
 <td align="center" valign="top" width="58%">
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dnwnsrb11})](https://solved.ac/{handle})
 
 </td>
 
