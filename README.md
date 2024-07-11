@@ -4,7 +4,7 @@
 <div align="left">
 
 ---
-<div align="center">
+<div align="left">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MyMHgwMnhvNnFwZmNqZjRoMjUzYjNnYzB5YjV0c3NoYzlscTJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 
 ---
 
@@ -43,7 +43,7 @@
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dnwnsrb11})](https://solved.ac/{handle})
