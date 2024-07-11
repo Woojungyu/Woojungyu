@@ -53,8 +53,6 @@
 <br>
 
 <h3 >📭 Contacts</h3>
-<p> check my blog</p>
-<p>
 <a href="https://velog.io/@dnwnsrb11/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
 <h3 >🪄 Blog </h3>
