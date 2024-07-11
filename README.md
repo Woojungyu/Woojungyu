@@ -32,7 +32,7 @@
 ### 🛠 UIUX
 <div align="left">
 <a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/assets/images/cmn/hd-logo_w.svg"/></a>
-<a href="https://www.toever.co.kr/main/index"><img src="https://cdn.toever.co.kr/resources/images/ico/ico-cateLink1.svg"/></a>
+<a href="https://www.toever.co.kr/main/index"><img src="https://pds.saramin.co.kr/company/logo/201902/27/pnjy2d_w72q-0_logo.jpg"/></a>
 <a href="https://www.doldol.net/"><img src="https://www.doldol.net/resources/dist/img/cmn/hd-logo.svg"/></a>
 
 
