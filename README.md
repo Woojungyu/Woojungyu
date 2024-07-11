@@ -31,7 +31,7 @@
 
 ### 🛠 UIUX
 
-<a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/scms/getImage.do?ATFILE_CONN_NO=1703553974941"/></a>
+<a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/assets/images/cmn/hd-logo_w.svg"/></a>
 
 
 
