@@ -1,6 +1,8 @@
 
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=495057&lines=Hello~&font=Roboto&size=40)](https://git.io/typing-svg)
+
 ---
 <div align="center">
 
@@ -8,7 +10,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=495057&lines=Hello~&font=Roboto&size=40)](https://git.io/typing-svg)
 
 
 [**성장**]하고 [**발전**]하는 개발자가 되고 싶은 **우준규**입니다.  
