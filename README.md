@@ -30,8 +30,11 @@
 <div align="center">
 
 ### 🛠 UIUX
-
+<div align="left">
 <a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/assets/images/cmn/hd-logo_w.svg"/></a>
+<a href="https://www.toever.co.kr/main/index"><img src="https://cdn.toever.co.kr/resources/images/user/logo.svg"/></a>
+<a href="https://www.doldol.net/"><img src="https://www.doldol.net/resources/dist/img/cmn/hd-logo.svg"/></a>
+
 
 
 
