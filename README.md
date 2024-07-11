@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<div align="left">
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WOOJUNGYU&fontSize=90)
 
@@ -20,6 +20,8 @@
 <br>
 <br>
 
+
+<div align="left">
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dnwnsrb11})](https://solved.ac/{handle})
