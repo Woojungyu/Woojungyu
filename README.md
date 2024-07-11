@@ -25,7 +25,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={dnwnsrb11})](https://solved.ac/{handle})
 
-<div width : 80% border: 1px solid #000>
+<div width = 80% border = 1px solid = #000>
 안녕하세요
   
 </div>
