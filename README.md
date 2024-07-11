@@ -31,8 +31,8 @@
 
 ### 🛠 UIUX
 <div align="left">
-<a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/assets/images/cmn/hd-logo_w.svg"/></a>
-<a href="https://www.toever.co.kr/main/index"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oPz_Pdvo_rc9hCBDzDGvizyx2yrRyyKwpPPYHi3eDpRk2VCS29wWD5MGIIc9phx841Y&usqp=CAU"/></a>
+<a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/assets/images/cmn/hd-logo_w.svg"/></a> <br>
+<a href="https://www.toever.co.kr/main/index"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oPz_Pdvo_rc9hCBDzDGvizyx2yrRyyKwpPPYHi3eDpRk2VCS29wWD5MGIIc9phx841Y&usqp=CAU"/></a> <br>
 <a href="https://www.doldol.net/"><img src="https://www.doldol.net/resources/dist/img/cmn/hd-logo.svg"/></a>
 
 
