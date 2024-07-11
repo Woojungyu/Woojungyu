@@ -9,7 +9,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MyMHgwMnhvNnFwZmNqZjRoMjUzYjNnYzB5YjV0c3NoYzlscTJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
 
 <br>
-
+<br>
 
 
 [**성장**]하고 [**발전**]하는 개발자가 되고 싶은 **우준규**입니다.  
