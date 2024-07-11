@@ -6,8 +6,6 @@
 ---
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=495057&lines=Hello~&font=Playwrite Magyarország&size=40)](https://git.io/typing-svg)
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MyMHgwMnhvNnFwZmNqZjRoMjUzYjNnYzB5YjV0c3NoYzlscTJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
 
 <br>
@@ -22,6 +20,10 @@
 <div align="center">
 
 ---
+
+## 📚 Education
+
+- **SSAFY** - 삼성 청년 SW 아카데미 12기 (2024.07. ~ ) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 
 </td>
 </tr>
