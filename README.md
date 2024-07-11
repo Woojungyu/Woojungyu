@@ -15,8 +15,6 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=300&section=header&text=WOOJUNGYU&fontSize=100)
-
 ---
 
 </td>
