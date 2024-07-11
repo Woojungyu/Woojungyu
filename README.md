@@ -35,9 +35,8 @@
 
 <br>
 <br>
----
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -67,8 +66,6 @@
  <p>가장 최신 글 보러가기<p>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnwnsrb11&color=dark)](https://velog.io/@dnwnsrb11)
-
-[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 
 
 </td>
