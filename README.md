@@ -31,12 +31,6 @@
 </tr>
 </table>-->
 
-
-[![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardroid&count_private=true&show_icons=true&theme=radical)](https://github.com/cardroid)
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carbonsix)](https://solved.ac/carbonsix)
-
-
 <br/>
 
 
