@@ -6,6 +6,16 @@
 ---
 <div align="left">
 
+<h3 >📭 Contacts</h3>
+<p> check my github and blog</p>
+<p>
+<a href="https://github.com/Woojungyu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
+<a href="https://velog.io/@dnwnsrb11/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>&nbsp
+
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ejaman&show_icons=true&theme=gotham">
+<br>
+<br>
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MyMHgwMnhvNnFwZmNqZjRoMjUzYjNnYzB5YjV0c3NoYzlscTJibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"/>
 
 <br>
