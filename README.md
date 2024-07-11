@@ -36,6 +36,13 @@
 <br>
 <br>
 
+##  Certificate
+- SQLD
+- 정보처리기사
+
+<br>
+<br>
+
 ## 🛠 Tech Stack
 
 <div>
