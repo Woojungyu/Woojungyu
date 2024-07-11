@@ -2,7 +2,10 @@
 
 ## Hi there 👋
 
-[header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=capsule%20render)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Cardroid&fontSize=90)
+
 
 
 
