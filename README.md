@@ -14,7 +14,6 @@
 <td align="left" valign="top" width="58%">
 
 <br>
-<br>
 
 
 <div align="left">
@@ -30,8 +29,9 @@
 ---
 <div align="center">
 
+### 🛠 UIUX
 
-
+<a href="https://iac.knu.ac.kr/"><img src="https://iac.knu.ac.kr/assets/images/cmn/hd-logo_w.svg"/></a>
 
 
 
